@@ -1,0 +1,19 @@
+{
+  "name": "random-sound-random-time",
+  "version": "0.0.1",
+  "description": "Play a random clip from a folder with a configurable random interval",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Emery <danielremery@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.13",
+    "@types/play-sound": "^1.1.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "play-sound": "^1.1.6"
+  }
+}
